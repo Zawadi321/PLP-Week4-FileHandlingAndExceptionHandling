@@ -1,0 +1,2 @@
+Hello. I am Zawadi and this is my first text file in VS code.
+This is a Python PLP Assignment to test my skills on file handling and error handling. Enjoy.
