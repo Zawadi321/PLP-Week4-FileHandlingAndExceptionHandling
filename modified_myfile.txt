@@ -3,5 +3,5 @@ Hello. I am Zawadi and this is my first text file in VS code.
 This is a Python PLP Assignment to test my skills on file handling and error handling. Enjoy.
 
 *MODIFIED FILE*
-HELLO. I AM ZAWADI AND THIS IS MY FIRST TEXT FILE IN VS CODE.
+BONJOUR. I AM ZAWADI AND THIS IS MY FIRST TEXT FILE IN VS CODE.
 THIS IS A PYTHON PLP ASSIGNMENT TO TEST MY SKILLS ON FILE HANDLING AND ERROR HANDLING. ENJOY.This is the last line

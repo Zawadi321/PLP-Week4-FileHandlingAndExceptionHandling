@@ -5,7 +5,7 @@ try:
         content=file.read()             #.read(): reads the entire file
 
         modified=content.upper()        #.upper(): modifieds the content to be in uppercase
-        modified=modified.replace("Hello","Bonjour")     #.replace() modifies the content by replacing the old text with the new one
+        modified=modified.replace("HELLO","BONJOUR")     #.replace() modifies the content by replacing the old text with the new one
         modified= modified + "This is the last line"     #Adds a line (text) at the end of the file
 
         modified_version=f"*==ORIGINAL FILE:{file_name}*\n" + content + "\n\n*MODIFIED FILE*\n" + modified      #Joining both the original and modifications into one
